@@ -1,4 +1,4 @@
-/* DVDL TMQ – tương tác trang */
+/* DVDL MIỀN TÂY – tương tác trang */
 (function () {
   const nav = document.getElementById('nav');
   const progress = document.getElementById('navProgress');

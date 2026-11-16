@@ -3,7 +3,7 @@
 	- Cho Thuê Xe Dịch Vụ, Hợp Đồng Tham Quan Du Lịch Các Tỉnh Miền Tây . 
 	-	Với đội ngủ tài xế dầy dặn kinh nghiệm, sẻ mang đến cho quý khách hàng 1 trãi nghiệm thật đáng đồng tiền bác gạo!
 	-	Website Giới Thiệu Nhà Xe Dịch Vụ – Xe Hợp Đồng 4 – 7 – 16 Chỗ Tại Rạch Giá – Rạch Sỏi.
-	-	Hotline 0775 856 456.
+	-	Hotline 0775 856 456 - 0941 426 432 .
 	-	Tuyến xe hằng ngày, bảng giá công khai, xe xăng & xe điện, tour du lịch trọn gói, form đặt xe online và chân trang đầy đủ thông tin theo yêu cầu của Google Ads.
 
 ## Công nghệ

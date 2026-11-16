@@ -5,7 +5,7 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "ads-dvdl",
-	"compatibility_date": "2026-11-10",
+	"compatibility_date": "2026-11-15",
 	"assets": {
 		// The path to the directory containing the `index.html` file to be served at `/`
 		"directory": "./public"
